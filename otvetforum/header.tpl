@@ -3,6 +3,7 @@
         <!-- Логотип и название - более компактная версия -->
         <div class="header-logo">
             <a href="/" class="logo-link">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
                 <img src="{THEME}/images/logo.svg" alt="Ответ Форум" class="logo-img">
                 <span class="logo-text">Ответ Форум</span>
             </a>
